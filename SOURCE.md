@@ -36,7 +36,7 @@ IMAGE 2 FILE
 
 IMAGE 2 ALT TEXT
 
-`Riyadh Garden`
+`Riyadh Garden
 
 PARAGRAPH 3
 
@@ -63,3 +63,4 @@ LINK 2
 
 `Wikipedia`
 `http://en.wikipedia.org/wiki/Riyadh`
+`
